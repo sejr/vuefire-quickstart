@@ -1,6 +1,6 @@
 # vuefire-quickstart
 
-> A boilerplate for web applications using Vue.js and Firebase.
+> A boilerplate for web applications using Vue.js and Firebase. It utilizes the Vue CLI's webpack template.
 
 ## Build Setup
 
