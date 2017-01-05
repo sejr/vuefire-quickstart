@@ -3,7 +3,7 @@
 [**A DEMO VERSION IS AVAILABLE HERE: https://vuefire-quickstart-demo.firebaseapp.com/**]
 (https://vuefire-quickstart-demo.firebaseapp.com/)
 
-> A boilerplate for web applications using Vue.js and Firebase.
+> A boilerplate for web applications using Vue.js and Firebase. It utilizes the Vue CLI's webpack template.
 
 ## Build Setup
 
