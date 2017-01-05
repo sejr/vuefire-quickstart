@@ -1,5 +1,8 @@
 # vuefire-quickstart
 
+[**A DEMO VERSION IS AVAILABLE HERE: https://vuefire-quickstart-demo.firebaseapp.com/**]
+(https://vuefire-quickstart-demo.firebaseapp.com/)
+
 > A boilerplate for web applications using Vue.js and Firebase.
 
 ## Build Setup
