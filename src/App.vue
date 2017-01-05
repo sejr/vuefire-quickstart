@@ -60,7 +60,7 @@
      */
 
     firebase: {
-      greetings: greetingsRef.limitToLast(10)
+      greetings: greetingsRef.limitToLast(5)
     },
 
     data () {

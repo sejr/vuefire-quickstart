@@ -43,9 +43,13 @@ process that came with the template.
 # build for production with minification
 npm run build
 
-# initialize firebase config
+# make sure you've installed the firebase CLI
 npm install -g firebase-tools
+
+# initialize a firebase app; see above note
 firebase init
+
+# deploy to firebase servers
 firebase deploy
 
 ```
