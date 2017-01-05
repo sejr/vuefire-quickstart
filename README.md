@@ -1,9 +1,11 @@
+<img src="http://i.imgur.com/WQWi5sS.png" height="200px">
+
 # vuefire-quickstart
+
+> A boilerplate for web applications using Vue.js and Firebase. It utilizes the Vue CLI's webpack template.
 
 [**A demo version is available here:** https://vuefire-quickstart-demo.firebaseapp.com/]
 (https://vuefire-quickstart-demo.firebaseapp.com/)
-
-> A boilerplate for web applications using Vue.js and Firebase. It utilizes the Vue CLI's webpack template.
 
 ## Build Setup
 
