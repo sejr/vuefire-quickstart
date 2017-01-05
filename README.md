@@ -2,7 +2,11 @@
 
 # vuefire-quickstart
 
-> A boilerplate for web applications using Vue.js and Firebase. It utilizes the Vue CLI's webpack template.
+> **vuefire-quickstart** makes web application development with Vue.js and Firebase
+simple, providing the required npm modules and helpful comments. In the future we will
+likely move toward a more opinionated structure that allows for rapid project
+scaffolding. It comes bundled with webpack and Babel so you can tap into the
+latest trends in JavaScript app development.
 
 [**A demo version is available here:** https://vuefire-quickstart-demo.firebaseapp.com/]
 (https://vuefire-quickstart-demo.firebaseapp.com/)
