@@ -6,7 +6,7 @@
 
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="./assets/logo.png" height="150px">
     <!-- Adding a new greeting; pretty much straight from the documentation! -->
     <form id="form" v-on:submit.prevent="addGreeting">
       <input type="text" v-model="newGreeting.lang" placeholder="Language Name">
