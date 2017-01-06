@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/WQWi5sS.png" height="200px">
+<img src="./src/assets/logo.png" height="200px">
 
 # vuefire-quickstart
 
